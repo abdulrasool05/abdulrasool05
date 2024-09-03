@@ -8,7 +8,7 @@
 
 ### Feel Free to Reach Out
  - https://www.linkedin.com/in/abdul-rasool/
- - araso012@uottawa.caa
+ - araso012@uottawa.ca
 
 
 
