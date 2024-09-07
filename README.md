@@ -2,7 +2,6 @@
 
 ### About Me
  - 💻Second year Software Engineering student at the University of Ottawa
- - 👀 I'm interested in web development
  - 🌱 I’m currently learning React
 
 
