@@ -1,9 +1,7 @@
 <h1 align="center">Abdul Rasool</h1>
 
 ### About Me
- - 💻Second year Software Engineering student at the University of Ottawa
- - 🌱 I’m currently learning React
-
+ - 💻 Software Engineering student at the University of Ottawa
 
 ### Feel Free to Reach Out
  - https://www.linkedin.com/in/abdul-rasool/
